@@ -96,7 +96,7 @@ Este proyecto demuestra:
 - ✅ Automatización con IA (Polly)
 - ✅ Infraestructura como código
 
-## 🔮 Mejoras futuras
+##  Mejoras futuras
 
 - [ ] Frontend web para subir archivos
 - [ ] Notificaciones por email cuando el audio esté listo
